@@ -1,0 +1,18 @@
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Changes here will be overwritten by Copier
+# NEVER EDIT MANUALLY
+# INSTEAD: run a recopy or update command
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+_commit: cb8df35
+_src_path: https://github.com/caporaso-lab/plugin-template.git
+author_email: ''
+author_name: BIOTA, inc.
+license: skip-license
+module_name: q2_bbduk
+package_name: q2-bbduk
+plugin_description: A QIIME 2 plugin for bbduk.
+plugin_name: bbduk
+plugin_short_description: A QIIME 2 plugin for bbduk.
+project_url: ''
+target_distro: amplicon
